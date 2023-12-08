@@ -9,14 +9,14 @@ const drawerUi = document.querySelector("#my-drawer");
 
 
 
-const dropDownBtn = document.querySelector("#dropDownBtn");
-const dropdownUi = document.querySelector("#my-dropdown");
+// const dropdownAvatarNameButton = document.querySelector("#dropdownAvatarNameButton");
+// const dropdownUi = document.querySelector("#dropdownAvatarName");
 
 
-const dropdown = new Dropdown (dropdownUi)
-dropDownBtn.addEventListener("click",() => {
-    dropdown.show();
-})
+// const dropdown = new Dropdown (dropdownUi)
+// dropdownAvatarNameButton.addEventListener("click",() => {
+//     dropdown.show();
+// });
 
 
 
